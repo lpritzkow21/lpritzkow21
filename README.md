@@ -1,6 +1,6 @@
 <h1 align="left">Lukas Pritzkow</h1>
 
-<p align="left"><b>Gründer von Janeway Technology — Software mit Fokus auf Datenhoheit und Datenschutz.</b></p>
+<p align="left"><b>Gründer von Janeway Technology: Software mit Fokus auf Datenhoheit und Datenschutz.</b></p>
 
 <p align="left">
   <a href="https://github.com/Janeway-Technology">
