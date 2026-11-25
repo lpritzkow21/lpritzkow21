@@ -27,7 +27,7 @@ Zeit zurückgibt.
 
 | Projekt | Worum es geht |
 |---|---|
-| **[Janeway Linux](https://github.com/Janeway-Technology#janeway-linux)** | Desktop-Betriebssystem „Linux made in Germany“ |
+| **[Janeway Linux](https://github.com/Janeway-Technology#janeway-linux)** | Linux made in Germany als Desktop, Server oder ganz nach eigenem Bedarf |
 | **[Janeway Suite](https://github.com/Janeway-Technology#janeway-suite)** | Selbst gehostete Produktivitäts-Suite mit der KI-Assistentin Jane |
 | **[Weitere Janeway Projekte](https://github.com/Janeway-Technology#weitere-janeway-projekte)** | CMS, Hosting, Buchungssystem, Warenwirtschaft und Shop |
 | **[Websites](https://github.com/Janeway-Technology#websites)** | Websites für Unternehmen aus der Region und darüber hinaus |
