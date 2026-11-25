@@ -80,55 +80,6 @@ Projekte steht öffentlich im [Profil der Organisation](https://github.com/Janew
   </picture>
 </p>
 
-## Favoriten
-
-Projekte anderer, die ich schätze und im Blick behalte.
-
-<details><summary><b>KI und Agenten</b> (8)</summary>
-
-| Repo | Worum es geht |
-|---|---|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | KI, die wirklich Dinge erledigt, auf jedem System |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Agent, der mit seinen Aufgaben wächst |
-| [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) | Offener Allzweck-Agent |
-| [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | KI-Coding-Agent im Terminal |
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Weniger Token, gleiches Ergebnis: Skill und lokaler Proxy |
-| [open-webui/open-webui](https://github.com/open-webui/open-webui) | Weboberfläche für lokale und entfernte Modelle |
-| [coleam00/local-ai-packaged](https://github.com/coleam00/local-ai-packaged) | Lokaler KI-Stack in einem Paket (Ollama, Supabase, n8n) |
-| [langfuse/langfuse](https://github.com/langfuse/langfuse) | Beobachtung und Auswertung von KI-Anwendungen |
-
-</details>
-
-<details><summary><b>Linux, Terminal und Selbst-Hosting</b> (9)</summary>
-
-| Repo | Worum es geht |
-|---|---|
-| [omacom/omarchy](https://github.com/omacom/omarchy) | Schönes, durchdachtes Linux auf Arch-Basis |
-| [getumbrel/umbrel](https://github.com/getumbrel/umbrel) | Home-Server-Betriebssystem |
-| [getumbrel/umbrel-apps](https://github.com/getumbrel/umbrel-apps) | App-Store von Umbrel |
-| [winboat-org/winboat](https://github.com/winboat-org/winboat) | Windows-Programme nahtlos unter Linux |
-| [daniruiz/flat-remix-gnome](https://github.com/daniruiz/flat-remix-gnome) | GNOME-Shell-Theme im Material-Stil |
-| [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) | Neovim-Konfiguration |
-| [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) | Vorschläge beim Tippen in der Zsh |
-| [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) | Syntaxfarben in der Zsh |
-| [bgreenwell/xleak](https://github.com/bgreenwell/xleak) | Excel-Dateien im Terminal ansehen |
-
-</details>
-
-<details><summary><b>Web, Daten und Werkzeuge</b> (7)</summary>
-
-| Repo | Worum es geht |
-|---|---|
-| [payloadcms/payload](https://github.com/payloadcms/payload) | Fullstack-CMS auf Next.js |
-| [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) | Visueller Theme-Editor für shadcn/ui |
-| [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) | Animierte, interaktive React-Komponenten |
-| [qdrant/qdrant](https://github.com/qdrant/qdrant) | Vektordatenbank |
-| [antonmedv/gitmal](https://github.com/antonmedv/gitmal) | Statische Seiten aus Git-Repos |
-| [drclcomputers/GoSheet](https://github.com/drclcomputers/GoSheet) | Tabellenkalkulation im Terminal |
-| [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin) | KI-gestütztes OSINT-Werkzeug |
-
-</details>
-
 ## Aktivität
 
 <picture>
