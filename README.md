@@ -61,6 +61,7 @@ Projekte steht öffentlich im [Profil der Organisation](https://github.com/Janew
     <img alt="nginx, PostgreSQL, Supabase, Git" src="https://skillicons.dev/icons?i=nginx,postgres,supabase,git&theme=light" height="48">
   </picture>
 </p>
+<sub>Linux · BSD · Bash · Docker · Podman · nginx · PostgreSQL · Supabase · Git</sub>
 
 **Sprachen**
 
@@ -70,6 +71,7 @@ Projekte steht öffentlich im [Profil der Organisation](https://github.com/Janew
     <img alt="Rust, TypeScript, JavaScript, Python, HTML, CSS" src="https://skillicons.dev/icons?i=rust,ts,js,py,html,css&theme=light" height="48">
   </picture>
 </p>
+<sub>Rust · TypeScript · JavaScript · Python · HTML · CSS</sub>
 
 **Web**
 
@@ -79,6 +81,7 @@ Projekte steht öffentlich im [Profil der Organisation](https://github.com/Janew
     <img alt="Node.js, Next.js, React, Tailwind CSS" src="https://skillicons.dev/icons?i=nodejs,nextjs,react,tailwind&theme=light" height="48">
   </picture>
 </p>
+<sub>Node.js · Next.js · React · Tailwind CSS</sub>
 
 ## Aktivität
 
