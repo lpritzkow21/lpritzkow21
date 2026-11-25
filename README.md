@@ -1,49 +1,89 @@
-<h1 align="left">Lukas Pritzkow</h1>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Janeway-Technology/.github/main/assets/wortmarken/lukas-pritzkow-dunkel.svg">
+    <img alt="Lukas Pritzkow" src="https://raw.githubusercontent.com/Janeway-Technology/.github/main/assets/wortmarken/lukas-pritzkow-hell.svg" width="420">
+  </picture>
+</p>
 
-<p align="left"><b>Gründer von Janeway Technology: Software mit Fokus auf Datenhoheit und Datenschutz.</b></p>
+<p align="center"><b>Gründer von Janeway Technology. Ich baue Software, bei der deine Daten dir gehören.</b></p>
 
-<p align="left">
-  <a href="https://github.com/Janeway-Technology">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Janeway-Technology/.github/main/assets/wortmarken/janeway-technology-dunkel.svg">
-      <img alt="Janeway Technology" src="https://raw.githubusercontent.com/Janeway-Technology/.github/main/assets/wortmarken/janeway-technology-hell.svg" width="360">
-    </picture>
-  </a>
+<p align="center">
+  <a href="https://lpritzkow.de">lpritzkow.de</a> ·
+  <a href="https://janeway-technology.com">janeway-technology.com</a> ·
+  <a href="https://github.com/Janeway-Technology">Janeway Technology auf GitHub</a>
 </p>
 
 ---
 
 ## Über mich
 
-Ich baue Software, bei der Daten dort bleiben, wo sie hingehören: Janeway Linux, die Janeway Suite mit der
-KI-Assistentin Jane, Janeway CMS und Commerce. Leidenschaften: Linux, Docker, Netzwerke, KI.
-Alle Projekte: **[github.com/Janeway-Technology](https://github.com/Janeway-Technology)**.
+Seit 2014 entwickle ich Software, heute mit [Janeway Technology](https://github.com/Janeway-Technology) in
+Neuruppin. Mein Schwerpunkt: Systeme, die auf eigenen Servern laufen, DSGVO-konform sind und ohne US-Clouds
+auskommen. Dazu gehören ein eigenes Linux, eine selbst gehostete Produktivitäts-Suite mit KI-Assistentin und die
+Websites unserer Kundinnen und Kunden. Was mich antreibt: Linux, Netzwerke, Automatisierung und KI, die den Menschen
+Zeit zurückgibt.
+
+## Woran ich baue
+
+| | |
+|---|---|
+| **[Janeway Linux](https://github.com/Janeway-Technology#janeway-linux)** | Desktop-Betriebssystem „Linux made in Germany“ |
+| **[Janeway Suite](https://github.com/Janeway-Technology#janeway-suite)** | Selbst gehostete Produktivitäts-Suite mit der KI-Assistentin Jane |
+| **[Weitere Janeway Projekte](https://github.com/Janeway-Technology#weitere-janeway-projekte)** | CMS, Hosting, Buchungssystem, Warenwirtschaft und Shop |
+| **[Websites](https://github.com/Janeway-Technology#websites)** | Websites für Unternehmen aus der Region und darüber hinaus |
+
+## Tech-Stack
+
+**Systeme und Betrieb**
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,bsd,bash,docker&theme=dark">
+    <img alt="Linux, BSD, Bash, Docker" src="https://skillicons.dev/icons?i=linux,bsd,bash,docker&theme=light" height="48">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Janeway-Technology/.github/main/assets/icons/podman-dunkel.svg">
+    <img alt="Podman" src="https://raw.githubusercontent.com/Janeway-Technology/.github/main/assets/icons/podman-hell.svg" height="48">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nginx,postgres,supabase,git&theme=dark">
+    <img alt="nginx, PostgreSQL, Supabase, Git" src="https://skillicons.dev/icons?i=nginx,postgres,supabase,git&theme=light" height="48">
+  </picture>
+</p>
+
+**Sprachen**
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust,ts,js,py,html,css&theme=dark">
+    <img alt="Rust, TypeScript, JavaScript, Python, HTML, CSS" src="https://skillicons.dev/icons?i=rust,ts,js,py,html,css&theme=light" height="48">
+  </picture>
+</p>
+
+**Web**
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,nextjs,react,tailwind&theme=dark">
+    <img alt="Node.js, Next.js, React, Tailwind CSS" src="https://skillicons.dev/icons?i=nodejs,nextjs,react,tailwind&theme=light" height="48">
+  </picture>
+</p>
 
 ## Aktivität
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Janeway-Technology/.github/main/assets/heatmaps/org-dunkel.svg">
-  <img alt="Commits je Tag in den letzten 12 Monaten" src="https://raw.githubusercontent.com/Janeway-Technology/.github/main/assets/heatmaps/org-hell.svg" width="100%">
+  <img alt="Commits je Tag in den letzten 12 Monaten über alle Repos von Janeway Technology" src="https://raw.githubusercontent.com/Janeway-Technology/.github/main/assets/heatmaps/org-hell.svg" width="100%">
 </picture>
-
-## Werkzeuge
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-</div>
 
 ---
 
-<p align="left"><sub><a href="https://janeway-technology.com">janeway-technology.com</a> · Neuruppin, Brandenburg</sub></p>
+<p align="center">
+  <a href="https://github.com/Janeway-Technology">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Janeway-Technology/.github/main/assets/wortmarken/janeway-technology-dunkel.svg">
+      <img alt="Janeway Technology" src="https://raw.githubusercontent.com/Janeway-Technology/.github/main/assets/wortmarken/janeway-technology-hell.svg" width="240">
+    </picture>
+  </a>
+  <br><sub>Neuruppin, Brandenburg</sub>
+</p>
