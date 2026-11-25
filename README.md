@@ -25,7 +25,7 @@ Zeit zurückgibt.
 
 ## Woran ich baue
 
-| | |
+| Projekt | Worum es geht |
 |---|---|
 | **[Janeway Linux](https://github.com/Janeway-Technology#janeway-linux)** | Desktop-Betriebssystem „Linux made in Germany“ |
 | **[Janeway Suite](https://github.com/Janeway-Technology#janeway-suite)** | Selbst gehostete Produktivitäts-Suite mit der KI-Assistentin Jane |
@@ -38,7 +38,7 @@ Zeit zurückgibt.
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,bsd,bash,docker&theme=dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux%2Cbsd%2Cbash%2Cdocker&theme=dark">
     <img alt="Linux, BSD, Bash, Docker" src="https://skillicons.dev/icons?i=linux,bsd,bash,docker&theme=light" height="48">
   </picture>
   <picture>
@@ -46,7 +46,7 @@ Zeit zurückgibt.
     <img alt="Podman" src="https://raw.githubusercontent.com/Janeway-Technology/.github/main/assets/icons/podman-hell.svg" height="48">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nginx,postgres,supabase,git&theme=dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nginx%2Cpostgres%2Csupabase%2Cgit&theme=dark">
     <img alt="nginx, PostgreSQL, Supabase, Git" src="https://skillicons.dev/icons?i=nginx,postgres,supabase,git&theme=light" height="48">
   </picture>
 </p>
@@ -55,7 +55,7 @@ Zeit zurückgibt.
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust,ts,js,py,html,css&theme=dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust%2Cts%2Cjs%2Cpy%2Chtml%2Ccss&theme=dark">
     <img alt="Rust, TypeScript, JavaScript, Python, HTML, CSS" src="https://skillicons.dev/icons?i=rust,ts,js,py,html,css&theme=light" height="48">
   </picture>
 </p>
@@ -64,7 +64,7 @@ Zeit zurückgibt.
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,nextjs,react,tailwind&theme=dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cnextjs%2Creact%2Ctailwind&theme=dark">
     <img alt="Node.js, Next.js, React, Tailwind CSS" src="https://skillicons.dev/icons?i=nodejs,nextjs,react,tailwind&theme=light" height="48">
   </picture>
 </p>
